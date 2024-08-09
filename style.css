@@ -1,0 +1,39 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  margin-left: 2vw !important;
+  margin-right: 2vw !important;
+}
+
+.card {
+  /* padding: 0px !important; 
+  margin: 5px; */
+  border: transparent !important;
+}
+
+.navbar {
+  margin-bottom: 2vh !important;
+}
+
+.card-img-top {
+  height: 150px;
+}
+
+.card-body {
+  padding: 5px !important;
+}
+
+.card-title {
+  font-size: 90% !important;
+}
+
+.card-text {
+  font-size: 80% !important;
+}
+
+img {
+  object-fit: cover;
+}
